@@ -318,6 +318,4 @@ engine.RunID = "my_run_001"
 
 ---
 
-## License
 
-MIT
